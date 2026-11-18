@@ -1,4 +1,4 @@
-# Task 03 â€“ Feature Engineering & Preprocessing Pipeline
+# Task 03 Feature Engineering & Preprocessing Pipeline
 
 ## Files
 - `Task_03_Feature_Engineering_Preprocessing.ipynb` â€“ complete Jupyter Notebook implementation.
